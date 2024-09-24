@@ -1,0 +1,12 @@
+/home/dotin/Downloads/verifier-contract/target/wasm32-unknown-unknown/release/deps/borsh-4f307a6767e81041.rmeta: /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/lib.rs /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/de/mod.rs /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/de/hint.rs /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/ser/mod.rs /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/ser/helpers.rs /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/error.rs
+
+/home/dotin/Downloads/verifier-contract/target/wasm32-unknown-unknown/release/deps/libborsh-4f307a6767e81041.rlib: /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/lib.rs /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/de/mod.rs /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/de/hint.rs /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/ser/mod.rs /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/ser/helpers.rs /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/error.rs
+
+/home/dotin/Downloads/verifier-contract/target/wasm32-unknown-unknown/release/deps/borsh-4f307a6767e81041.d: /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/lib.rs /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/de/mod.rs /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/de/hint.rs /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/ser/mod.rs /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/ser/helpers.rs /home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/error.rs
+
+/home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/lib.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/de/mod.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/de/hint.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/ser/mod.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/ser/helpers.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.0/src/error.rs:
